@@ -6,4 +6,4 @@ How to start app:
 - write the command in terminal "npm install"
 - write the command in terminal "npm run start"
 
-Live Demo here: http://vladivals.github.io/short-link (Incomplete functionality, since github blocks http requests, need https)
+Live Demo here: http://vladivals.github.io/short-link
