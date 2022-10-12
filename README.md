@@ -7,3 +7,6 @@ How to start app:
 - write the command in terminal "npm run start"
 
 Live Demo here: http://vladivals.github.io/short-link
+
+Login: staostenkovlad@gmail.com
+Password: Qw12345!
