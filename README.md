@@ -8,5 +8,5 @@ How to start app:
 
 Live Demo here: http://vladivals.github.io/short-link
 
-Login: staostenkovlad@gmail.com
+Login: vladivals
 Password: Qw12345!
